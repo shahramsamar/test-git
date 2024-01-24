@@ -1,6 +1,6 @@
 this is a project in my work 
 updated file
-new updateing file4
+new updateing file 4 bug fixed
 edited file by nano
 edited file for testing rebase
 nano good for edited file by git bach
