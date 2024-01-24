@@ -7,3 +7,4 @@ nano good for edited file by git bach
 new line 1
 new ilne 2
 new line 3
+new line 4
