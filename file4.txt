@@ -4,3 +4,6 @@ new updateing file4
 edited file by nano
 edited file for testing rebase
 nano good for edited file by git bach
+new line 1
+new ilne 2
+new line 3
